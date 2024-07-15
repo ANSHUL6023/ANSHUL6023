@@ -47,13 +47,15 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ANSHUL6023&theme=dark" alt="GitHub Streak" /></a>
-
+```java
 while(doubt)
 {
   exercise;
   if(tired) break;
   sweat it OUT;
-}  
+}
+ ```
+   <!--
 <div><h2 tabindex="-1" class="heading-element" dir="auto">📫 How to reach me : Contact / Social Media</h2></div>
 <div>
   <p dir="auto"><a href="https://www.linkedin.com/in/anshul-gupta-3684a21b3" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AnshulGupta" height="50" width="50" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;
