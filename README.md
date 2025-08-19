@@ -29,15 +29,15 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
-- :telescope: Frontend: React.js, Next Js, JavaScript (ES6+), HTML5, CSS3, Tailwind, Bootstrap
+-  Frontend: React.js, Next Js, JavaScript (ES6+), HTML5, CSS3, Tailwind, Bootstrap
 
-- :telescope: Backend: Node.js, Express.js, REST APIs
+-  Backend: Node.js, Express.js, REST APIs
 
-- :telescope: Tools: Git, GitHub, Google Tag Manager, Postman
+-  Tools: Git, GitHub, Google Tag Manager, Postman
 
-- :telescope: Database: MySQL, MongoDB
+-  Database: MySQL, MongoDB
 
-- :telescope: Android: Android Studio
+-  Android: Android Studio
 
 
 ### :fire: My Stats :
